@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Motors Hub</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Revendedora autorizada Harley Davidson</description>
+	<lastBuildDate>Mon, 06 Apr 2020 16:27:49 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.5</generator>
+	<item>
+		<title>Olá, mundo!</title>
+		<link>./../2020/04/06/ola-mundo/index.html</link>
+				<comments>./../2020/04/06/ola-mundo/index.html#respond</comments>
+				<pubDate>Mon, 06 Apr 2020 16:27:49 +0000</pubDate>
+		<dc:creator><![CDATA[Viviane]]></dc:creator>
+				<category><![CDATA[Sem categoria]]></category>
+
+		<guid isPermaLink="false">./../index.html?p=1</guid>
+				<description><![CDATA[Boas-vindas ao desenvolvimento-sites. Esse é o seu primeiro post. Edite-o ou exclua-o, e então comece a escrever!]]></description>
+								<content:encoded><![CDATA[<p>Boas-vindas ao <a href="http://localhost/wordpress/">desenvolvimento-sites</a>. Esse é o seu primeiro post. Edite-o ou exclua-o, e então comece a escrever!</p>
+]]></content:encoded>
+							<wfw:commentRss>./../2020/04/06/ola-mundo/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+	</channel>
+</rss>
